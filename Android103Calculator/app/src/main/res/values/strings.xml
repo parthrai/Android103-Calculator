@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android103-Calculator</string>
+    <string name="btn_add_identifier">+</string>
+
+</resources>
